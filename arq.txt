@@ -1,0 +1,20 @@
+Área de Trabalho
+arq.txt
+Documentos
+Downloads
+gnome-tweak-tool.deb
+Imagens
+log.0301242321
+log.0301242323
+meuscript.sh
+Modelos
+Música
+pasta
+Público
+testecrase.sh
+testeuservar.sh
+testevar2.sh
+testevar.sh
+Unity
+Vídeos
+dom 07 jan 2024 11:06:29 -03
